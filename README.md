@@ -1,2 +1,2 @@
 # script-archive
-a collection of scripts for e.a xss attacks
+a collection of scripts for hacking & more
